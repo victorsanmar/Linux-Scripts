@@ -10,10 +10,15 @@ Debes de ejecutarlo como root pero cargando su entorno porque sino puede que hay
 
 ## **Prueba de script:**
 ![image](https://user-images.githubusercontent.com/74706392/116101711-5aa1b700-a6ae-11eb-8eea-d7d975799348.png)
+
 ![image](https://user-images.githubusercontent.com/74706392/116101787-6b522d00-a6ae-11eb-8163-41796eaa7f1c.png)
+
 ![image](https://user-images.githubusercontent.com/74706392/116101922-8a50bf00-a6ae-11eb-99b4-8ad8a88a238c.png)
+
 ![image](https://user-images.githubusercontent.com/74706392/116102041-a18fac80-a6ae-11eb-9cf2-eba5550b359a.png)
+
 ![image](https://user-images.githubusercontent.com/74706392/116101503-2af2af00-a6ae-11eb-98af-82f81a327fcc.png)
+
 ![image](https://user-images.githubusercontent.com/74706392/116101592-3d6ce880-a6ae-11eb-90ec-bd5f5300dbd7.png)
 
 
