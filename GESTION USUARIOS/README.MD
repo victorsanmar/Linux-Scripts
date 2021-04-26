@@ -1,4 +1,4 @@
-# SELECTOR DE FONDO DE PANTALLA
+# Gestion de Usuarios
 Este script al ejecutarlo podrá seleccionar de un menú repetitivo diferentes opciones de gestión de usuarios como crear usuarios,borrarlos,ver los usuarios del sistema y demás.
 
 Este script permite facilitar la administración y gestión de cuentas de usuarios y grupos. 
